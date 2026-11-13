@@ -68,7 +68,7 @@ export function Medicines() {
                   <path d="M3 13 C 80 3, 200 3, 297 11" stroke="currentColor" strokeWidth="6" fill="none" strokeLinecap="round" />
                 </svg>
               </span>{" "}
-              pelo seu plano
+              pelo seu crédito
             </h2>
           </Reveal>
 
